@@ -1,9 +1,1 @@
-# PlatformIO build files
-.pio
-.pioenvs
-lib_deps
-.env
-# VSCode
-.vscode
-# Build outputs
-build
+@\n.pio/\n.pioenvs/\nbuild/\n.vscode/\n*.bin\n*.elf\n*.hex\n.git.backup/\n
