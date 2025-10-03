@@ -1,0 +1,9 @@
+# PlatformIO build files
+.pio
+.pioenvs
+lib_deps
+.env
+# VSCode
+.vscode
+# Build outputs
+build
