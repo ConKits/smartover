@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 c2cf522d6429f4a0cb744d5cb2ea8f08b596150b ConKits <costantinoskitsios@gmail.com> 1759489281 +0200	commit (initial): Initial commit: clean import (no build artifacts)
+c2cf522d6429f4a0cb744d5cb2ea8f08b596150b c2cf522d6429f4a0cb744d5cb2ea8f08b596150b ConKits <costantinoskitsios@gmail.com> 1759489281 +0200	Branch: renamed refs/heads/clean to refs/heads/master
+c2cf522d6429f4a0cb744d5cb2ea8f08b596150b df95e225833c23d6282aa27906c5cdc81774792f ConKits <costantinoskitsios@gmail.com> 1759489308 +0200	commit: Fix .gitignore: proper line endings and entries
